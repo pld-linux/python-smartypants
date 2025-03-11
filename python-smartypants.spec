@@ -9,7 +9,7 @@ Summary:	Python fork of SmartyPants
 Summary(pl.UTF-8):	Pythonowa wersja SmartyPants
 Name:		python-smartypants
 Version:	2.0.1
-Release:	5
+Release:	6
 License:	BSD
 Group:		Libraries/Python
 ##Source0Download: https://pypi.org/simple/smartypants/
